@@ -10,7 +10,7 @@ Run the gradle wrapper command:
 
 Or run `gradle wrapper` from the Gradle pane in IntelliJ:
 
-![Run the gradle wrapper task.](images/gradle wrapper.png "Gradle Wrapper Task")
+![Run the gradle wrapper task.](images/gradleWrapper.png "Gradle Wrapper Task")
 
 Run
 ---
