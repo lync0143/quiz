@@ -22,4 +22,4 @@ Or run `gradle run` from the Gradle pane in IntelliJ.
 
 The `--quiet` and `--console=plain` command line options also can be set from within the IntelliJ IDE:
 
-![Set command line options to gradle run from within IntelliJ.](images/run configuration.png "Set Run Configuration Options")
+![Set command line options to gradle run from within IntelliJ.](images/runConfiguration.png "Set Run Configuration Options")
